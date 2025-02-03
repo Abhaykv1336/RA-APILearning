@@ -1,0 +1,8 @@
+package RestAPI.RA01.CRUD.GET;
+
+public class Lab06 {
+    //TWO WAYS TO CREATE A RA TESTCASES
+    // BDD STYLE - GIVEN, WHEN, THEN
+    //NON BDD STYLE - CLASSES AND OBJECT
+
+}

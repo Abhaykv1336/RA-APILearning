@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful bokker API Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Mukesh/IdeaProjects/RA-APILearning">
+        <classes>
+            <class name="RestAPI.RA01.CRUD.POST.Lab011"> </class>
+
+
+        </classes>
+    </test>
+</suite>

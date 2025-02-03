@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful booker API Test CRUD">
+    <test verbose="2" preserve-order="true" name="CRUD all Test">
+<!--        <classes>-->
+<!--            <class name="RestAPI.RA01.CRUD.GET.Lab09"> </class>-->
+<!--            <class name="RestAPI.RA01.CRUD.POST.Lab011"> </class>-->
+<!--            <class name="RestAPI.RA01.CRUD.PUT.Lab12"> </class>-->
+<!--            <class name="RestAPI.RA01.CRUD.PATCH.Lab13"> </class>-->
+<!--            <class name="RestAPI.RA01.CRUD.DELETE.Lab14"> </class>-->
+<!--            <class name="RestAPI.RA01.TestNG.Lab03"> </class>-->
+<!--        </classes>-->
+        <packages>
+            <package name="RestAPI.RA01.CRUD.FullCRUD.*" />
+        </packages>
+    </test>
+</suite>

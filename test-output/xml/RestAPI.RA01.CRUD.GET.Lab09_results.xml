@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRUD all Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.521">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequestNegativeTC"
+                time="1.326"
+                classname="RestAPI.RA01.CRUD.GET.Lab09">
+            </testcase>
+            <testcase
+                name="getRequestPositiveTC"
+                time="1.195"
+                classname="RestAPI.RA01.CRUD.GET.Lab09">
+            </testcase>
+</testsuite>
