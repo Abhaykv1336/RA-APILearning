@@ -138,14 +138,7 @@ public class Lab015 {
             Assert.assertEquals(checkinDate, "2018-01-01");
 
 
-
             // 3. AssertJ Matching
 
-
-
-
-
     }
-
-
 }
